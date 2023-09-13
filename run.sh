@@ -1,0 +1,1 @@
+roslaunch t265_depth taobao_120.launch pre_filter_type:=xsobel pre_filter_size:=9 pre_filter_cap:=0 uniqueness_ratio:=15 speckle_range:=1 speckle_window_size:=200 p1:=216 p2:=864 disp_12_max_diff:=5
